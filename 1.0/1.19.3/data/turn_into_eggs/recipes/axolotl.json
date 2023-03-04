@@ -1,0 +1,15 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:axolotl_bucket"
+            },
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:axolotl_spawn_egg",
+            "count": 1
+        }
+    }

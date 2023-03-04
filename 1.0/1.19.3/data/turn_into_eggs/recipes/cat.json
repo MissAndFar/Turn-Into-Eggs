@@ -1,0 +1,15 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:emerald"
+            },
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:cat_spawn_egg",
+            "count": 1
+        }
+    }

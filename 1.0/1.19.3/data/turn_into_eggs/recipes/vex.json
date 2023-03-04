@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "  B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "B": {
+      "item": "minecraft:iron_sword"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:vex_spawn_egg",
+    "count": 1
+  }
+}

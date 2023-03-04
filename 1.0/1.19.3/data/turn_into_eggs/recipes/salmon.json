@@ -1,0 +1,15 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:salmon"
+            },
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:salmon_spawn_egg",
+            "count": 1
+        }
+    }

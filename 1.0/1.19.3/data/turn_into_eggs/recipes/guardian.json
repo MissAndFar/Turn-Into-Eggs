@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BDB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "B": {
+      "item": "minecraft:cod"
+    },
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "D": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:guardian_spawn_egg",
+    "count": 1
+  }
+}

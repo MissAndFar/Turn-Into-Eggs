@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
+    },
+    "B": {
+      "item": "minecraft:gunpowder"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:ghast_spawn_egg",
+    "count": 1
+  }
+}

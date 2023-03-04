@@ -1,0 +1,28 @@
+
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:sculk_vein"
+            },
+            {
+                "item": "minecraft:sculk_shrieker"
+            },
+            {
+                "item": "minecraft:sculk_sensor"
+            },
+            {
+                "item": "minecraft:sculk_catalyst"
+            },
+            {
+                "item": "minecraft:sculk"
+            },
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:warden_spawn_egg",
+            "count": 1
+        }
+    }

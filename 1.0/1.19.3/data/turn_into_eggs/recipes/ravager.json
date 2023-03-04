@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BDC",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "minecraft:white_banner"
+    },
+    "C": {
+      "item": "minecraft:saddle"
+    },
+    "D": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:ravager_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " DA",
+    "BCA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "minecraft:chest"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    },
+    "D": {
+      "item": "minecraft:saddle"
+    }
+  },
+  "result": {
+    "item": "minecraft:donkey_spawn_egg",
+    "count": 1
+  }
+}

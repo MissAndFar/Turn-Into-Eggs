@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    " CB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "B": {
+      "item": "minecraft:iron_axe"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:vindicator_spawn_egg",
+    "count": 1
+  }
+}
