@@ -1,0 +1,15 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:frog_spawn_egg"
+            },
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:tadpole_spawn_egg",
+            "count": 2
+        }
+    }

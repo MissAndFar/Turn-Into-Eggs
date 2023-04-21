@@ -1,0 +1,20 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            [
+		  {
+                "item": "minecraft:pufferfish"
+            },
+            {
+                "item": "minecraft:pufferfish_bucket"
+            }
+            ],
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:pufferfish_spawn_egg",
+            "count": 1
+        }
+    }

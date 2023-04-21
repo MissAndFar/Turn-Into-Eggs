@@ -1,0 +1,23 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:egg"
+            },
+            [
+                {
+                    "item": "minecraft:stone_bricks"
+                },
+                {
+                    "item": "minecraft:cracked_stone_bricks"
+                },
+                {
+                    "item": "minecraft:mossy_stone_bricks"
+                }
+            ]
+        ],
+        "result": {
+            "item": "minecraft:silverfish_spawn_egg",
+            "count": 1
+        }
+    }

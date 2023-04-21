@@ -1,0 +1,26 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            [
+			{
+                "item": "minecraft:cod"
+            },
+			{
+                "item": "minecraft:cod_bucket"
+            }
+            ],
+            {
+                "item": "minecraft:egg"
+            },
+            {
+                "item": "minecraft:prismarine_crystals"
+            },
+            {
+                "item": "minecraft:prismarine_shard"
+            }
+        ],
+"result": {
+    "item": "minecraft:guardian_spawn_egg",
+    "count": 1
+        }
+    }

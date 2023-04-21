@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AC ",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "tag": "fishes"
+    },
+    "B": {
+      "tag": "leaves"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+        "result": {
+            "item": "minecraft:ocelot_spawn_egg",
+            "count": 1
+        }
+    }

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BDC",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:emerald"
+    },
+    "B": 
+    {
+      "tag": "banners"
+    },
+    "C": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "D": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:evoker_spawn_egg",
+    "count": 1
+  }
+}

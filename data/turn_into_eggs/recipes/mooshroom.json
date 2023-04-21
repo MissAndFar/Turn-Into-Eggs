@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "B B"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:red_mushroom"
+    },
+    "B": {
+      "item": "minecraft:beef"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:mooshroom_spawn_egg",
+    "count": 1
+  }
+}

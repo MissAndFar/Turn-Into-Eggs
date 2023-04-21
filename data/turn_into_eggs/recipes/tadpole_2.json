@@ -1,0 +1,15 @@
+    {
+        "type": "crafting_shapeless",
+        "ingredients": [
+            {
+                "item": "minecraft:tadpole_bucket"
+            },
+            {
+                "item": "minecraft:egg"
+            }
+        ],
+        "result": {
+            "item": "minecraft:tadpole_spawn_egg",
+            "count": 1
+        }
+    }
