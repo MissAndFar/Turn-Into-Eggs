@@ -1,4 +1,5 @@
 # Turn Into Eggs
+[EN](README-EN.md)
 <h2>数据包介绍</h2>
 Turn Into Eggs (TIE) 是由 <big>Miss & Far</big> 出品的一款 Minecraft Java Edition 数据包。<br>
 此数据包为Minecraft中的所有“刷怪蛋”添加了合成配方。
