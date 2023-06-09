@@ -6,5 +6,5 @@ Turn Into Eggs (TIE) 是由 <big>Miss & Far</big> 出品的一款 Minecraft Java
 本数据包依照 GNU General Public License 3（GPLv3) 许可协议 开源<br>
 您可以遵照此协议进行修改。
 <h2>Credits</h2>
-所有者/程序/持续运营/发行：moyujun<br>
-PV制作/TIE合成部分策划/<s>吉祥物</s>：FBIMAYO
+原作/程序/持续运营/Mod移植：moyujun<br>
+PV制作/程序：FBIMAYO
