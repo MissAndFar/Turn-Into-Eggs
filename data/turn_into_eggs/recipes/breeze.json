@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:wind_charge"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:breeze_spawn_egg",
+    "count": 1
+  }
+}
