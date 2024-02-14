@@ -1,22 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
+    "ACA",
     "ABA",
-    "ADA",
-    "ACA"
+    "AAA"
   ],
   "key": {
     "A": {
       "item": "minecraft:bone"
     },
     "B": {
-      "item": "minecraft:bow"
+      "item": "minecraft:egg"
     },
     "C": {
       "item": "minecraft:snowball"
-    },
-    "D": {
-      "item": "minecraft:egg"
     }
   },
   "result": {
