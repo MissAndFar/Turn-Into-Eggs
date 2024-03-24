@@ -13,7 +13,7 @@
       }
     },
     "result": {
-      "item": "minecraft:armabillo_spawn_egg",
+      "id": "minecraft:armabillo_spawn_egg",
       "count": 1
     }
   }
