@@ -2,7 +2,10 @@
         "type": "crafting_shapeless",
         "ingredients": [
             {
-                "item": "minecraft:emerald"
+                "item": "minecraft:cod"
+            },
+            {
+                "item": "minecraft:string"
             },
             {
                 "item": "minecraft:egg"
