@@ -5,6 +5,9 @@
                 "item": "minecraft:axolotl_bucket"
             },
             {
+                "item": "minecraft:tropical_fish_bucket"
+            },
+            {
                 "item": "minecraft:egg"
             }
         ],
