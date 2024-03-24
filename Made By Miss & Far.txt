@@ -1,3 +1,0 @@
-Minecraft数据包：Turn Into Eggs
-Miss & Far 出品
-开源于Github（https://github.com/MissandFar/turn_into_eggs），遵循GPLv3开源协议。
